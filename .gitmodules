@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "nordstatExtras"]
+	path = nordstatExtras
+	url = https://github.com/LCHansson/nordstatExtras
+	registered = false
 [submodule "pixieweb"]
 	path = pixieweb
 	url = https://github.com/lchansson/pixieweb
