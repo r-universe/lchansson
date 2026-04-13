@@ -2,12 +2,6 @@
   {
     "package": "nordstatExtras",
     "url": "https://github.com/LCHansson/nordstatExtras",
-    "via": ["pixieweb"],
-    "from": "pixieweb"
-  },
-  {
-    "package": "nordstatExtras",
-    "url": "https://github.com/LCHansson/nordstatExtras",
     "via": ["rKolada"],
     "from": "rKolada"
   }
