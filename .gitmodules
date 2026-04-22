@@ -4,8 +4,7 @@
 	branch = HEAD
 [submodule "nordstatExtras"]
 	path = nordstatExtras
-	url = https://github.com/LCHansson/nordstatExtras
-	registered = false
+	url = https://github.com/lchansson/nordstatextras
 [submodule "pixieweb"]
 	path = pixieweb
 	url = https://github.com/lchansson/pixieweb
